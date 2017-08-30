@@ -703,7 +703,7 @@ public class NetworkManager : MonoBehaviour {
 
 
 	public void InstructionsButtonClicked(){
-		Application.OpenURL ("https://www.xjimdimproductions.com/games/");
+			Application.OpenURL ("https://dimitriskalogirou.com/shadowhunters/Instructions.html");
 
 	}
 
