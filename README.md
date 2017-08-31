@@ -1,4 +1,4 @@
-![Shadow Hunters RPG Card Game by XjiMDim](https://github.com/xjimdim/Shadow-Hunters/blob/master/screencaptures/Image2.jpg) 
+![Shadow Hunters RPG Card Game by XjiMDim](https://github.com/xjimdim/Shadow-Hunters/blob/master/screencaptures/1.png) 
 ***
 
 
