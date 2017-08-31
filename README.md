@@ -1,4 +1,4 @@
-![Shadow Hunters RPG Card Game by XjiMDim](https://github.com/xjimdim/Shadow-Hunters/blob/master/screencaptures/1.png) 
+![Shadow Hunters RPG Card Game by XjiMDim](https://github.com/xjimdim/Shadow-Hunters/blob/master/screencaptures/3.png) 
 ***
 
 
@@ -21,15 +21,15 @@ Go Mobile: This game is mostly point and click, so a mobile implementation could
 
 ## Some screens of the game (v0.9): 
 
-Home Screen (Using an NGUI template for inserting user info - this will probably be replaced with Facebook Integration):
-![Home Screen Shadow Hunters Unity](https://github.com/xjimdim/Shadow-Hunters/blob/master/screencaptures/Image1.jpg)
+Lobby:
+![Lobby Shadow Hunters Unity](https://github.com/xjimdim/Shadow-Hunters/blob/master/screencaptures/1.png)
 
-First run:
-![Shadow Hunters by XjiMDim](https://github.com/xjimdim/Shadow-Hunters/blob/master/screencaptures/Image2.jpg) 
+Room:
+![Shadow Hunters by XjiMDim](https://github.com/xjimdim/Shadow-Hunters/blob/master/screencaptures/2.png) 
 
-Dice roll and moving to the right area:
-![Shadow Hunters by XjiMDim](https://github.com/xjimdim/Shadow-Hunters/blob/master/screencaptures/image3.jpg)
+Ingame:
+![Shadow Hunters by XjiMDim](https://github.com/xjimdim/Shadow-Hunters/blob/master/screencaptures/3.png)
  
-Picking up card after going to the right area::
-![Shadow Hunters by XjiMDim](https://github.com/xjimdim/Shadow-Hunters/blob/master/screencaptures/image4.jpg)
+Picking up card after going to the right region:
+![Shadow Hunters by XjiMDim](https://github.com/xjimdim/Shadow-Hunters/blob/master/screencaptures/4.png)
  
