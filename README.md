@@ -6,7 +6,7 @@
 
 Shadow Hunters is a famous RPG Card board game by Yasutaka Ikeda. 
 
-The whole point of the game is to identify your opponents or allies! You are a Werewolf, a Vampire or a human who just caught in the middle of this ancient battle. But your identity remains secret until someone outs you through your actions and through Hermit cards or you reveal yourself to use your special ability. The key to victory is to identify your allies and enemies early. Survival! Once your identity is revealed, your enemies will attack without impunity using their special abilities or their equipment. This ancient battle comes to a head and only one group will stand victorious (or a civilian, in the right circumstances). 
+The whole point of the game is to identify your opponents or allies! You are a Werewolf, a Vampire or a human who just caught in the middle of this ancient battle. But your identity remains secret until someone outs you through your actions and through Hermit cards or you reveal yourself to use your special ability. The key to victory is to identify your allies and enemies early. Survival! Once your identity is revealed, your enemies will attack without impunity using their special abilities or their equipment. This ancient battle comes to a head and only one group will stand victorious (or a civilian, in the right circumstances). Check out the instructions of the game here: https://dimitriskalogirou.com/shadowhunters/Instructions.html
 
 ## How to run
 In order to run this game (https://apps.facebook.com/theshadowhunters), you need at least 2 Facebook accounts because when you get in a room you can only click play if there are 2 or more players ready in the room (I think it makes sense :P). 
