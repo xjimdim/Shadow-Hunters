@@ -13,6 +13,9 @@ In order to run this game (https://apps.facebook.com/theshadowhunters), you need
 
 WARNING: If you want to run this game in Unity editor you need to be a test user in the Facebbok Application so you can take an Access Token from this address https://developers.facebook.com/tools/accesstoken/?app_id=1572529873014800 . If you want to do that please contact me (http://m.me/XjiMDim or xjimdim@gmail.com)  and give me your facebook info and I will happily add you as a Test User in the official Facebook Application. 
 
+Runs better with Unity 5.6.3 or beyond (DON'T RUN IT WITH UNITY 2017, because Facebook SDK is not compatible yet)
+Recommended screen resolution: 1920x1080
+
 ## Basic Scripts
 
 | Script Name | Description |
