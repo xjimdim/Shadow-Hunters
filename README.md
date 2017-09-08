@@ -11,7 +11,7 @@ The whole point of the game is to identify your opponents or allies! You are a W
 ## How to run
 In order to run this game (https://apps.facebook.com/theshadowhunters), you need at least 2 Facebook accounts because when you get in a room you can only click play if there are 2 or more players ready in the room (I think it makes sense :P). 
 
-WARNING: If you want to run this game in Unity editor you need to be a test user in the Facebbok Application so you can take an Access Token from this address https://developers.facebook.com/tools/accesstoken/?app_id=1572529873014800 . If you want to do that please contact me and give me your facebook info and I will happily add you as a Test User in the official Facebook Application. 
+WARNING: If you want to run this game in Unity editor you need to be a test user in the Facebbok Application so you can take an Access Token from this address https://developers.facebook.com/tools/accesstoken/?app_id=1572529873014800 . If you want to do that please contact me (http://m.me/XjiMDim or xjimdim@gmail.com)  and give me your facebook info and I will happily add you as a Test User in the official Facebook Application. 
 
 ## Basic Scripts
 
